@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/alexander/Desktop/POMiRTS_Lab4/devel -DCMAKE_INSTALL_PREFIX=/home/alexander/Desktop/POMiRTS_Lab4/install -G Unix Makefiles
